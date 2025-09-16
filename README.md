@@ -21,4 +21,4 @@ Configuration model for elevator settings
 ├── appsettings.json # Application configuration
 ├── ElevatorSimulation.csproj # Project file with dependencies 
 └── Program.cs # Main application entry point Prerequisites 
-.Net*
+.Net8*
